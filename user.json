@@ -1,26 +1,21 @@
-
- { "users":
-   [
-     {
-    "userName" :"Ram Kumar",
-       "email":"ram@g.com",
-       "contact": "999999999"
-  },
-     {
-    "userName" :"Test user1",
-       "email":"test1@g.com",
-       "contact": "999999999"
-  },
-     {
-    "userName" :"Test User2",
-       "email":"test2@g.com",
-       "contact": "999999999"
-  },
-     {
-    "userName" :"Test User3 ",
-       "email":"test3@g.com",
-       "contact": "999999999"
-  }
-     
-   ]
-}
+[{
+      "userName": "Ram Kumar",
+      "email": "ram@g.com",
+      "contact": "999999999"
+    },
+    {
+      "userName": "Test user1",
+      "email": "test1@g.com",
+      "contact": "999999999"
+    },
+    {
+      "userName": "Test User2",
+      "email": "test2@g.com",
+      "contact": "999999999"
+    },
+    {
+      "userName": "Test User3 ",
+      "email": "test3@g.com",
+      "contact": "999999999"
+    }]
+ 
